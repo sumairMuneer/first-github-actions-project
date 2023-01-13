@@ -71,5 +71,4 @@ const sample=async()=>{
     // await sample();
     console.log('sample ');
     console.log('code');
-    console.log('to execute');
  })()
