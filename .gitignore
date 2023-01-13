@@ -1,6 +1,4 @@
-node_modules/
-2023-01-04-dump.zip
-unziped/
-sample.txt
+node_modules
 log.txt
-dist/
+sample.txt
+unziped/

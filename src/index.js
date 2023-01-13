@@ -1,6 +1,6 @@
 const { StringStream,DataStream } = require("scramjet");
 const fs= require('fs');
-require('./unzipper');
+// require('./unzipper');
 
 const getData=(id)=>({    id,name:'sumair'+id,})
 
@@ -66,8 +66,9 @@ const sample=async()=>{
     //   .run();
  ;
 }
-// ;(async()=>
-//  {
-//     await sample();
-//     console.log('data');
-//  })()
+;(async()=>
+ {
+    // await sample();
+    console.log('sample ');
+    console.log('code');
+ })()
